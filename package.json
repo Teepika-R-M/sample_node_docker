@@ -1,0 +1,14 @@
+{
+  "name": "nodes_sample",
+  "version": "1.0.0",
+  "description": "This is sample Node Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Teepika",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
